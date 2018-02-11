@@ -12,7 +12,7 @@
         <div class="col-md-4">
             <h2>TESTING</h2>
             <p>
-                Testing testing.
+                Testing testing testing testing.
             </p>
             <p>
                 <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
